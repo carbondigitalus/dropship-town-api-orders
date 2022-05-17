@@ -103,3 +103,11 @@ const connectDatabase = async () => {
 };
 
 connectDatabase();
+
+
+// When applicable your responses will include:
+// order_id - Your New Dropship Town Order #
+// po_number - Your PO#
+// amount - Amount charged for your new order
+// response_code - Response Code
+// response_desc - Response Description.
